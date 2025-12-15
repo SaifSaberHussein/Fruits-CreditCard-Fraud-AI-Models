@@ -1,0 +1,8 @@
+A) numerical dataset of your selection 
+3) Credit Card Fraud Detection Dataset 2023
+• Idea: Develop a model to identify potentially fraudulent transactions.
+• Link: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+
+B) Choose image dataset from one of the following:
+4) Fruits 360 Dataset
+a) Link : https://www.kaggle.com/moltean/fruits
